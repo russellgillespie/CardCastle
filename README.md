@@ -16,7 +16,7 @@ _...and the name of the game shall be that which they hath cast as dice before t
 _...drawn from the deck of cards as splinters from a ship roiling upon the seas of fate..._
 
 ```
-# A Few Positional Notes Regarding Edeavor Must Be Allowed
+# A Few Positional Notes Regarding Endeavor Must Be Allowed
 # Questions and Answers welcome!
 
 [ ] How many cards, you ask? Why, how many splinters form the ship?
