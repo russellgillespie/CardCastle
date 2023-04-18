@@ -1,6 +1,6 @@
 # CardCastle
 
-#### Welcome to (Y)our castle! _Time to Make it Yours_:tm:
+#### Welcome to our castle! _Time to Make it Yours_:tm:
 
 _CardCastle is a creative sandbox for developing a collectible card strategy game. The rules are simple!_
 
