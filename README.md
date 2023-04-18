@@ -19,17 +19,24 @@ _...drawn from the deck of cards as splinters from a ship roiling upon the seas 
 # A Few Positional Notes Regarding Endeavor Must Be Allowed
 # Questions and Answers welcome!
 
-[ ] How many cards, you ask? Why, how many splinters form the ship?
+[ ] How many cards, you ask? 
+Why, how many splinters form the ship?
 
-[ ] Which way to sail? We shall find our way over water by following the fire of the stars throughout the sky to the earthen refuges... In time.
+[ ] Which way to sail?
+We shall find our way over water by following the fire of the stars throughout the sky to the earthen refuges... 
+In time.
 
-[ ] But "What's in it for you", well, only through mutual attention will true connection be acquired. Bring your friends!
+[ ] But "What's in it for you", well, only through mutual attention will true connection be acquired. 
+Bring your friends!
 
-[ ] I can understand you are wary of offending the little ones, and fret not, my consciencious fellow, we shall shepherd the flock of ducklings with a newly-aware sense of equally-shared responsibility.
+[ ] I can understand you are wary of offending the little ones, and fret not, my consciencious fellow. 
+We shall shepherd the flock of ducklings with a newly-aware sense of equally-shared responsibility.
 
-[ ] But yes, as you suggest, there will be the requirement of just _how_ to settle any disagreements that might, could, and will arise. _Best to be prepared_.
+[ ] But yes, as you suggest, there will be the requirement of just _how_ to settle any disagreements that might, could, and will arise. 
+_Best to be prepared_.
 
-[ ] To allay your fears, take heart in the outpouring of art that is the _destiny_ of this endeavor. After all, we must needs express ourselves, must we not?
+[ ] To allay your fears, take heart in the outpouring of art that is the _destiny_ of this endeavor. 
+After all, we must needs express ourselves, must we not?
 ```
 <hr>
 
