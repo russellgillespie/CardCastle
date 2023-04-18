@@ -1,12 +1,15 @@
 # CardCastle
 
-_A creative sandbox for developing a collectible card strategy game._
+#### Welcome to (Y)our castle! _Time to Make it Yours_:tm:
+
+_CardCastle is a creative sandbox for developing a collectible card strategy game. The rules are simple!_
 
 ### Rule # 1 : Have fun!
 
 ### Rule # 2 : You make the rules!
 
-#### Overview
+* The excerpts that follow are intended to serve as a guide to the ethos of the CardCastle. Passed down throughought the many and varied metaverses of our collective childhood unconscious, these legends and parables remain as a testament to those who came before, and their unending desire to see their progeny uplifted.
+
 
 _...and the name of the game shall be that which they hath cast as dice before thine own eyes..._
 
