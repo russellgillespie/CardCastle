@@ -32,7 +32,8 @@ Bring your friends!
 [ ] I can understand you are wary of offending the little ones, and fret not, my consciencious fellow. 
 We shall shepherd the flock of ducklings with a newly-aware sense of equally-shared responsibility.
 
-[ ] But yes, as you suggest, there will be the requirement of just _how_ to settle any disagreements that might, could, and will arise. 
+[ ] But yes, as you suggest, there will be the requirement of just _how_ to settle any disagreements
+that might, could, and will arise. 
 _Best to be prepared_.
 
 [ ] To allay your fears, take heart in the outpouring of art that is the _destiny_ of this endeavor. 
