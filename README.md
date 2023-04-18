@@ -21,7 +21,7 @@ _...drawn from the deck of cards as splinters from a ship roiling upon the seas 
 
 [ ] How many cards, you ask? Why, how many splinters form the ship?
 
-[ ] Which way to sail? We shall find our way over water by following the fire of the stars throught the sky to the earthen refuges... In time.
+[ ] Which way to sail? We shall find our way over water by following the fire of the stars throughout the sky to the earthen refuges... In time.
 
 [ ] But "What's in it for you", well, only through mutual attention will true connection be acquired. Bring your friends!
 
